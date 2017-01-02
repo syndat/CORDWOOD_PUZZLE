@@ -1,5 +1,5 @@
 # CORDWOOD_PUZZLE
-Processing JAVA code for CORDWOOD PUZZLE
+Processing code for CORDWOOD PUZZLE
 
 This is a demo patch to show how you can control the arduino over the standard firmata protokol from processing.
 It uses the GUI-library G4P for the buttons. The CORDWOOD PUZZLE is from BOLDPORT CLUB!
